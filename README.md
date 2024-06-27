@@ -56,14 +56,25 @@ The hands-on experience in building and refining a cuisine classification system
 
 ## Repository Contents
 - **Data Cleaning and Manipulation Scripts**: Python scripts used for cleaning and preparing the data for analysis.
+  
 - **Descriptive Analysis**: Jupyter notebooks containing the statistical analysis of numerical columns and exploration of top cuisines.
+  
 - **City Analysis**: Notebooks with analyses of city-specific restaurant data, including average ratings.
+  
 - **Price Range Distribution**: Visualizations and calculations related to the distribution of restaurant price ranges.
+  
 - **Online Delivery Analysis**: Analysis of the impact of online delivery on restaurant ratings.
+  
 - **Restaurant Ratings**: Analysis of rating distributions and average votes per restaurant.
+  
 - **Cuisine Combination**: Exploration of common cuisine combinations and their ratings.
+  
 - **Geographic Analysis**: Mapping of restaurant locations and identification of clusters.
+  
 - **Restaurant Chains**: Analysis of the presence, ratings, and popularity of restaurant chains.
+  
 - **Restaurant Reviews**: Text analysis of reviews to identify common keywords and review length correlations.
+  
 - **Votes Analysis**: Identification of restaurants with the highest and lowest votes and correlation analysis.
+  
 - **Price Range vs. Online Delivery and Table Booking**: Analysis of the relationship between price range and service availability.
